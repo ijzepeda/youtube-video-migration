@@ -34,6 +34,7 @@ Currently working on the UI using [Streamlit](https://streamlit.io/) and Tkinter
 - google-api-python-client
 
 ### Structure
+```
 youtube-video-migration/
 ├── csvs/               # Folder to store CSVs related to playlists and videos
 ├── session_ks/         # Session tokens and client secret for OAuth
@@ -44,4 +45,4 @@ youtube-video-migration/
 ├── youtube_migrator.py # create playlists and add videos to the new account
 ├── requirements.txt    # Dependencies
 └── README.md           # This README file
-
+```
